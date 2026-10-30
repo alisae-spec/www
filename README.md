@@ -24,4 +24,3 @@ View your app in AI Studio: https://ai.studio/apps/d7363caf-50b6-489a-af6c-d99fa
 - Local development: set `GEMINI_API_KEY` in `.env.local` or `.env`.
 - Deployment: add `GEMINI_API_KEY` as a server-side environment variable in your hosting provider's project settings, then redeploy. Do not commit or upload `.env` or `.env.local`; these files are excluded by `.gitignore`.
 - `.env.example` is a safe template and does not contain a real API key.
-

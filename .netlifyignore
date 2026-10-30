@@ -1,0 +1,5 @@
+.env*
+.netlify-appdata/**
+.netlify-cli-home/**
+node_modules/**
+.next/**

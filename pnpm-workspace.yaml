@@ -1,0 +1,12 @@
+nodeLinker: hoisted
+allowBuilds:
+  '@google/genai': true
+  '@tailwindcss/oxide': true
+  core-js: true
+  esbuild: true
+  netlify-cli: true
+  protobufjs: true
+  re2: true
+  unix-dgram: true
+  unrs-resolver: true
+
